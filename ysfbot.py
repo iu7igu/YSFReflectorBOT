@@ -1,5 +1,5 @@
 import tail  # https://github.com/kasun/python-tail
-import telebot #pip install telebot
+import telebot #pip install pyTelegramBotAPI
 import time
 import datetime
 
